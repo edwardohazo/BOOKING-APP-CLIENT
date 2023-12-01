@@ -108,6 +108,9 @@ video {
     align-items: center;
     width: 100%;
 }
+.language-switch {
+    width: 5%;
+}
 .fa-solid {
     margin-right: 30px;
 }

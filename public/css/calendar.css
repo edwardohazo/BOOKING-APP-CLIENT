@@ -212,7 +212,7 @@ body {
   }
 
   /* Movile Landscape Rules */
-@media only screen and  (max-width: 700px) {
+@media only screen and  (max-width: 1000px) {
   /* All Resolutions General Rules */
   /* General Styles | Unspecific Selectors */
   /* General Styles Combined | Unspecific Selectors */
